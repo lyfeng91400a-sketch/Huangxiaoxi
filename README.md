@@ -8,6 +8,10 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/ee8f5b94-efec-4e91-a4dc-67c730f5091a
 
+## Prototype
+
+原型地址：https://arifinfirman788-blip.github.io/HuangxiaoxiV4.0/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
